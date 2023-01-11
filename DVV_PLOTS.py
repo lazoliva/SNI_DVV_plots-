@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Script used to plot the dv/v time series results after running MSNoise.  
+
 # In[22]:
 
 
