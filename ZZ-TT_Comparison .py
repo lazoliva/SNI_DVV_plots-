@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Test script for dv/v comparizon between the ZZ and TT seismic components. 
 # In[1]:
 
 
